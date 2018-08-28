@@ -1,0 +1,46 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------< com.tecsup.cps.sesion03:sesion03-CPS-2018-2 >-------------
+[INFO] Building sesion03-CPS-2018-2 1.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ sesion03-CPS-2018-2 ---
+[INFO] Deleting C:\@4C15B\sesion03-CPS-2018-2\target
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ sesion03-CPS-2018-2 ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\@4C15B\sesion03-CPS-2018-2\src\main\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ sesion03-CPS-2018-2 ---
+[INFO] Changes detected - recompiling the module!
+[WARNING] File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+[INFO] Compiling 1 source file to C:\@4C15B\sesion03-CPS-2018-2\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ sesion03-CPS-2018-2 ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\@4C15B\sesion03-CPS-2018-2\src\test\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ sesion03-CPS-2018-2 ---
+[INFO] Changes detected - recompiling the module!
+[WARNING] File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+[INFO] Compiling 1 source file to C:\@4C15B\sesion03-CPS-2018-2\target\test-classes
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ sesion03-CPS-2018-2 ---
+[INFO] Surefire report directory: C:\@4C15B\sesion03-CPS-2018-2\target\surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.tecsup.cps.sesion03.AppTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.004 sec
+
+Results :
+
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 2.496 s
+[INFO] Finished at: 2018-08-28T10:49:34-05:00
+[INFO] ------------------------------------------------------------------------

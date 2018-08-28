@@ -35,4 +35,14 @@ public class AppTest
     {
         assertTrue( true );
     }
+
+    public void TestSuma(){
+        int a=2;
+        int b=3;
+
+        int sumaEsperada = 2;
+        int sumaObtenida = (new App()).suma(a,b);
+        assertEquals(sumaEsperada, sumaObtenida);
+        
+    }
 }
